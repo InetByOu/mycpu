@@ -21,7 +21,7 @@ You can:
 ### ⚙️ Installation
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/mycpu.git
+git clone https://github.com/InetByOu/mycpu.git
 cd mycpu
 
 # Make executable
@@ -101,7 +101,7 @@ Fitur utama:
 ### ⚙️ Instalasi
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/mycpu.git
+git clone https://github.com/InetByOu/mycpu.git
 cd mycpu
 
 # Jadikan executable
